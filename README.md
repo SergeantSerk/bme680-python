@@ -7,7 +7,7 @@
 
 https://shop.pimoroni.com/products/bme680
 
-The state-of-the-art BME680 breakout lets you measure temperature, pressure, humidity, and indoor air quality.
+The state-of-the-art BME680 breakout lets you measure temperature, pressure, humidity, and indoor air quality. Compatible with Raspberry Pi Pico.
 
 ## Installing
 
